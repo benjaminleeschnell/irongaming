@@ -412,6 +412,10 @@ iframe {
 
 /* Mobile adjustments */
 @media screen and (max-width:321px) {
+  .lead {
+  	 font-size: 36px !important;
+  }
+
   .tag {
     font-weight: 300;
     font-size: 24px !important;
